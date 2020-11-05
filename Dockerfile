@@ -1,4 +1,4 @@
-FROM frolvlad/alpine-glibc
+FROM frolvlad/alpine-glibc:alpine-3.12_glibc-2.32
 ENV  PATH=$PATH:/flutter/bin:/flutter/bin/cache/dart-sdk/bin
 ENV  FLUTTER_ROOT=/flutter
 RUN  apk update -q \ 
