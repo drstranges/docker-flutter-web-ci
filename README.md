@@ -7,7 +7,7 @@ A Docker image based on [Alpine Linux with glibc](https://hub.docker.com/r/frolv
 ## Content &nbsp;/
 
 - Alpine ( **3.12** ) with glibc ( **2.32** ) based on `frolvlad/alpine-glibc:alpine-3.12_glibc-2.32`
-- Flatter SDK ( **latest stable** ) with web enabled
+- Flatter SDK ( **latest beta** ) with web enabled
 
 ## Usage
 
