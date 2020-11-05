@@ -2,7 +2,6 @@
 [![Docker Hub](https://img.shields.io/badge/Docker%20Hub-info-blue.svg)](https://hub.docker.com/r/drstranges/docker-flutter-web-ci)
 [![](https://images.microbadger.com/badges/image/drstranges/docker-flutter-web-ci.svg)](https://microbadger.com/images/drstranges/docker-flutter-web-ci)
 
-Flutter image with channel stable for web build only
 A Docker image based on [Alpine Linux with glibc](https://hub.docker.com/r/frolvlad/alpine-glibc/) by `frolvlad` with environment for building app with flutter for web
 
 ## Content &nbsp;/
